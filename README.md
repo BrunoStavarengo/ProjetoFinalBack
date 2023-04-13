@@ -27,5 +27,4 @@ Emprestimo:
 POST - http://localhost:8080/clientes/emprestimos<br />
 GET - http://localhost:8080/clientes/emprestimos<br />
 GET - http://localhost:8080/clientes/:cpf/emprestimos/:id<br />
-PUT - http://localhost:8080/clientes/:cpf/emprestimo/:id<br />
 DELETE - http://localhost:8080/clientes/:cpf/emprestimo/:id<br />
